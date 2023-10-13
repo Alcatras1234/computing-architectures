@@ -1,6 +1,6 @@
 .text
 	enter: 
-		PRINT("Enter the number of elements from 1 to 10 : ")
+		PRINT("ENTER number elemets from 1 to 10: ")
 		ENTER_NUMBER(s7)
 		mv t3 s7 # change array arrend
 		bge t3 t4 exception
