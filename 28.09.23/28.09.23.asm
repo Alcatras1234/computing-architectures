@@ -4,7 +4,7 @@ sep:    .asciz  "--------\n"    # ??????-??????????? (? \n ? ???? ? ?????)
 .align  2
 array:  .space 64   # 64
 arrend:                       # 
-int_1:  .asciz "Ónter the number of elements from 1 to 10: "
+int_1:  .asciz "Enter the number of elements from 1 to 10: "
 excep_mes: .asciz "number must get 1 to 10\n"
 overfl: .asciz "overflow\n"
 .text
@@ -33,8 +33,8 @@ fill:
 	j sum
 sum:
 	lw a0(t0)
-	slt s2, zero, t6
-	slt s3, zero, a0
+	sltz s2, t6
+	sltz s3, a0
 	beq s2 s3 check_overflow
 	
 sum_next:
