@@ -1,4 +1,3 @@
-.global macros
 .macro ENTER_NUMBER(%x)
 	li a7, 5
 	ecall
@@ -13,14 +12,12 @@
 		li a7, 4
 		ecall
 .end_macro 
-
 .macro PRINT_INT(%x)
 	.text
 		mv a0 %x
 		li a7, 1
 		ecall
 .end_macro 
-
 .macro PRINT_CHAR(%x)
 	.text	
 		li a0, %x

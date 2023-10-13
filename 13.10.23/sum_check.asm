@@ -1,5 +1,3 @@
-.global sum_check
-.include "macros.asm"
 .text
 	sum:
 		lw a0(t0)

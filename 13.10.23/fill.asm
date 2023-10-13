@@ -1,6 +1,3 @@
-.global fill
-.extern sum_check, 32
-.include "macros.asm"
 .text
 	fill: 
 		ENTER_NUMBER(a0)
@@ -10,4 +7,4 @@
 		blt t5 t3 fill
 		la t0, array
 		li t5, 0
-		jal sum
+		ret

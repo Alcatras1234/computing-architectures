@@ -1,8 +1,5 @@
-.extern enter, 32
 .include "macros.asm"
-
 .data 
-	words:  .asciz "Enter number: "
 	.align  2
 	array:  .space 64   # 64 байта
 	arrend:                       # √раница массива
@@ -11,7 +8,13 @@
 	        la      t0 array   
 	        la      s1 arrend       # —чЄтчик
 	        li 	t4, 11 
-	        jal enter
+	        call enter
+	        call fill
+	        call sum
 		EXIT
+		
+.include "enter.asm"
+.include "fill.asm"
+.include "sum_check.asm"
 
 	
