@@ -1,15 +1,15 @@
 .data
 words:  .asciz "Enter number: "
-sep:    .asciz  "--------\n"    # Строка-разделитель (с \n и нулём в конце)
+sep:    .asciz  "--------\n"    # ??????-??????????? (? \n ? ???? ? ?????)
 .align  2
-array:  .space 64   # 64 байта
-arrend:                       # Граница массива
-int_1:  .asciz "Введите кол - во элементов в массиве не меньше 1 и не больше 10: "
-excep_mes: .asciz "Нужно ввести число от 1 до 10\n"
-overfl: .asciz "Переполнение\n"
+array:  .space 64   # 64
+arrend:                       # 
+int_1:  .asciz "Уnter the number of elements from 1 to 10: "
+excep_mes: .asciz "number must get 1 to 10\n"
+overfl: .asciz "overflow\n"
 .text
         la      t0 array   
-        la      s1 arrend       # Счётчик
+        la      s1 arrend       # ???????
         li 	t4, 11  
 enter: 
 	la   a0, int_1
@@ -33,12 +33,14 @@ fill:
 	j sum
 sum:
 	lw a0(t0)
-	add t6 t6 a0
-	addi t5 t5 1
-	addi t0 t0 4
 	slt s2, zero, t6
 	slt s3, zero, a0
 	beq s2 s3 check_overflow
+	
+sum_next:
+	add t6 t6 a0
+	addi t5 t5 1
+	addi t0 t0 4
 	blt t5 t3 sum
 	j print
 exception:
@@ -59,7 +61,7 @@ overflow:
 	li a7, 4
 	ecall
         mv a0, t5
-	li a7, 1 #вывод просуммированных чисел
+	li a7, 1 #????? ???????????????? ?????
 	ecall
 	li a0, ' '
 	li a7, 11
@@ -67,10 +69,11 @@ overflow:
 	j print
 check_overflow:
 	add s4 t6 a0
-	slt s5, s4,  zero #if  s4 < zero, set s5 1. I am do it beacause, if t6 + a0 get number, 
-	#which bigger tham 4 byte, result get number with a different sign
-	beq s2, s5, overflow #for exp, s2 = 1, s5 = 1 => overflow 'cause s4 < zero
-	#despite the fact that numbers, for example, have a positive sign
-	j sum
-
-	
+	bgtz t6, check_overflow_positivie
+	bltz t6, check_overflow_negative
+check_overflow_positivie:
+	bltz s4, overflow
+	j sum_next
+check_overflow_negative:
+	bgtz s4, overflow
+	j sum_next
