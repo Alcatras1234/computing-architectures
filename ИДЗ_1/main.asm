@@ -1,5 +1,6 @@
 .include "macros_lib.asm"
 .data
+	.align 2
 	array: .space 64
 	arrayB: .space 64
 .text
