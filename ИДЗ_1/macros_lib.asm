@@ -26,13 +26,13 @@
 		ecall
 .end_macro 
 
-.macro PRINT_Array 
+.macro PRINT_Array (%x)
 	.text
 		print:
-			lw a0 (s2)
+			lw a0 (%x)
 			PRINT_INT(a0)
 			PRINT_CHAR(' ')
-			addi s2 s2 4
+			addi %x %x 4
 			addi t3 t3 1 #Update Counters
 			blt t3 s1 print #check counter t3
 .end_macro 

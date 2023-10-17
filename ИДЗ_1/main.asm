@@ -14,5 +14,5 @@
 		call change_zero_on_min #get array A(s0), Array B(s2), min value t6. Result is array B 
 		#which equal array A but zero changed on t6(min value)
 		la s2, arrayB #A space
-		PRINT_Array #Print array B 
+		PRINT_Array(s2) #Print array B 
 		EXIT #exit, get code 0
