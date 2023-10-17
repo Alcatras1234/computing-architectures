@@ -56,6 +56,7 @@ t6 - регистр хранящий максимальное число в 4 б
 <image src="/ИДЗ_1/images/testh1.png"> \
 <image src="/ИДЗ_1/images/testh2.png"> \
 <image src="/ИДЗ_1/images/testh3.png"> 
+<image src="/ИДЗ_1/images/testh4.png"> 
 
 ### Требования
 **4 - 5 баллов**
