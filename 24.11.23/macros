@@ -1,0 +1,137 @@
+.macro reset_disp
+	lui t6 0xffff0
+	sb zero 0x10(t6)
+	sb zero 0x11(t6)
+.end_macro
+
+.macro displ(%digit, %count)
+	push(a0)
+	mv a0 %digit
+	li a1 %count
+	call display
+	pop(a0)
+.end_macro
+
+.macro sleep(%x)
+	li a0, %x
+    	li a7, 32
+    	ecall
+.end_macro
+
+.macro push(%x)
+	addi	sp, sp, -4
+	sw	%x, (sp)
+.end_macro
+
+.macro pop(%x)
+	lw	%x, (sp)
+	addi	sp, sp, 4
+.end_macro
+
+.macro get_code(%num, %code)
+ 	push (t4)
+ 	push(t5)
+ 	mv t4 %num
+ 	li t5, 0
+ 	
+ 	beq t4 t5 null
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 one
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 two
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 three
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 four
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 five
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 six
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 seven
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 eight
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 nine
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 A
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 B
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 C
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 D
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 E
+ 	addi t5 t5 1
+ 	
+ 	beq t4 t5 F
+ 	addi t5 t5 1
+ 	
+ 	null: 
+ 		li %code 0x3f
+ 		j end
+ 	one:
+ 		li %code 0x6
+ 		j end
+ 	two:
+ 		li %code 0x5b
+ 		j end
+ 	three:
+ 		li %code 0x4f
+ 		j end
+ 	four:
+ 		li %code 0x66
+ 		j end
+ 	five:
+ 		li %code 0x6d
+ 		j end
+ 	six:
+ 		li %code 0x7d
+ 		j end
+ 	seven:
+ 		li %code 0x7
+ 		j end
+ 	eight:
+ 		li %code 0x7f
+ 		j end
+ 	nine:
+ 		li %code 0x6f
+ 		j end
+ 	A:
+ 		li %code 0x77
+ 		j end
+ 	B:
+ 		li %code 0x7f
+ 		j end
+ 	C:
+ 		li %code 0x39
+ 		j end
+ 	D:
+ 		li %code 0x3f
+ 		j end
+ 	E:
+ 		li %code 0x79
+ 		j end
+ 	F:
+ 		li %code 0x71
+ 		j end
+ 	
+ 	end:
+ 		pop(t5)
+ 		pop(t4)
+.end_macro
