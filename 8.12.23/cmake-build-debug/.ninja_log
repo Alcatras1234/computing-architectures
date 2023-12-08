@@ -1,0 +1,11 @@
+# ninja log v5
+1	920	7237723958234358	CMakeFiles/05_thread01cpp.dir/sqsum-ptr.cpp.obj	544b6ab01505bd37
+925	1111	7237723960098302	05_thread01cpp.exe	e9e8cc82be4f1f2a
+4	962	7237724458927015	CMakeFiles/05_thread01cpp.dir/sqsum-ptr.cpp.obj	544b6ab01505bd37
+962	1161	7237724460866602	05_thread01cpp.exe	e9e8cc82be4f1f2a
+4	1630	7237727020467251	CMakeFiles/05_thread01cpp.dir/sqsum-ptr.cpp.obj	544b6ab01505bd37
+1630	1907	7237727023200937	05_thread01cpp.exe	e9e8cc82be4f1f2a
+6	797	7237727371441543	CMakeFiles/05_thread01cpp.dir/sqsum-ptr.cpp.obj	544b6ab01505bd37
+798	941	7237727372829264	05_thread01cpp.exe	e9e8cc82be4f1f2a
+4	731	7237728401799951	CMakeFiles/05_thread01cpp.dir/sqsum-ptr.cpp.obj	544b6ab01505bd37
+732	863	7237728403079250	05_thread01cpp.exe	e9e8cc82be4f1f2a

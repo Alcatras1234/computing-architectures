@@ -1,0 +1,3 @@
+C:/Users/User/Downloads/11-Multitreading/11-Multitreading/05-thread01cpp/cmake-build-debug/CMakeFiles/05_thread01cpp.dir
+C:/Users/User/Downloads/11-Multitreading/11-Multitreading/05-thread01cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Downloads/11-Multitreading/11-Multitreading/05-thread01cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
