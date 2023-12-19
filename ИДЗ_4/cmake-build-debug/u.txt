@@ -1,0 +1,509 @@
+Group 30 search treasure on own site: treasure found
+Group 42 search treasure on own site: treasure found
+Group 43 search treasure on own site: treasure found
+Group 45 search treasure on own site: treasure not found
+Group 46 search treasure on own site: treasure not found
+Group 49 search treasure on own site: treasure not found
+Group 50 search treasure on own site: treasure found
+Group 53 search treasure on own site: treasure found
+Group 57 search treasure on own site: treasure not found
+Group 305 search treasure on own site: treasure found
+Group 62 search treasure on own site: treasure found
+Group 65 search treasure on own site: treasure not found
+Group 67 search treasure on own site: treasure found
+Group 409 search treasure on own site: treasure not found
+Group 70 search treasure on own site: treasure not found
+Group 73 search treasure on own site: treasure not found
+Group 75 search treasure on own site: treasure not found
+Group 77 search treasure on own site: treasure found
+Group 78 search treasure on own site: treasure found
+Group 79 search treasure on own site: treasure found
+Group 5 search treasure on own site: treasure not found
+Group 81 search treasure on own site: treasure found
+Group 81 search treasure on own site: treasure not found
+Group 28 search treasure on own site: treasure not found
+Group 82 search treasure on own site: treasure found
+Group 29 search treasure on own site: treasure not found
+Group 84 search treasure on own site: treasure found
+Group 85 search treasure on own site: treasure found
+Group 815 search treasure on own site: treasure not found
+Group 88 search treasure on own site: treasure not found
+Group 89 search treasure on own site: treasure not found
+Group 92 search treasure on own site: treasure not found
+Group 95 search treasure on own site: treasure not found
+Group 97 search treasure on own site: treasure not found
+Group 965 search treasure on own site: treasure not found
+Group 991 search treasure on own site: treasure found
+Group 1000 search treasure on own site: treasure found
+Group 1000 search treasure on own site: treasure not found
+Group 107 search treasure on own site: treasure found
+Group 109 search treasure on own site: treasure not found
+Group 1000 search treasure on own site: treasure found
+Group 112 search treasure on own site: treasure not found
+Group 1000 search treasure on own site: treasure found
+Group 118 search treasure on own site: treasure not found
+Group 120 search treasure on own site: treasure not found
+Group 123 search treasure on own site: treasure found
+Group 125 search treasure on own site: treasure not found
+Group 127 search treasure on own site: treasure found
+Group 1000 search treasure on own site: treasure found
+Group 132 search treasure on own site: treasure found
+Group 135 search treasure on own site: treasure found
+Group 1000 search treasure on own site: treasure found
+Group 138 search treasure on own site: treasure not found
+Group 139 search treasure on own site: treasure not found
+Group 1000 search treasure on own site: treasure not found
+Group 140 search treasure on own site: treasure found
+Group 144 search treasure on own site: treasure found
+Group 1000 search treasure on own site: treasure not found
+Group 149 search treasure on own site: treasure found
+Group 1000 search treasure on own site: treasure not found
+Group 154 search treasure on own site: treasure not found
+Group 157 search treasure on own site: treasure not found
+Group 160 search treasure on own site: treasure not found
+Group 1000 search treasure on own site: treasure not found
+Group 166 search treasure on own site: treasure found
+Group 167 search treasure on own site: treasure found
+Group 169 search treasure on own site: treasure found
+Group 1000 search treasure on own site: treasure found
+Group 1000 search treasure on own site: treasure not found
+Group 174 search treasure on own site: treasure found
+Group 1000 search treasure on own site: treasure found
+Group 178 search treasure on own site: treasure not found
+Group 181 search treasure on own site: treasure found
+Group 183 search treasure on own site: treasure not found
+Group 186 search treasure on own site: treasure found
+Group 189 search treasure on own site: treasure found
+Group 191 search treasure on own site: treasure found
+Group 194 search treasure on own site: treasure not found
+Group 198 search treasure on own site: treasure found
+Group 202 search treasure on own site: treasure not found
+Group 204 search treasure on own site: treasure not found
+Group 205 search treasure on own site: treasure not found
+Group 207 search treasure on own site: treasure not found
+Group 209 search treasure on own site: treasure not found
+Group 212 search treasure on own site: treasure not found
+Group 214 search treasure on own site: treasure found
+Group 215 search treasure on own site: treasure not found
+Group 216 search treasure on own site: treasure found
+Group 218 search treasure on own site: treasure not found
+Group 220 search treasure on own site: treasure not found
+Group 222 search treasure on own site: treasure not found
+Group 225 search treasure on own site: treasure not found
+Group 228 search treasure on own site: treasure not found
+Group 229 search treasure on own site: treasure not found
+Group 230 search treasure on own site: treasure not found
+Group 231 search treasure on own site: treasure found
+Group 232 search treasure on own site: treasure found
+Group 234 search treasure on own site: treasure found
+Group 235 search treasure on own site: treasure found
+Group 237 search treasure on own site: treasure not found
+Group 239 search treasure on own site: treasure found
+Group 241 search treasure on own site: treasure found
+Group 244 search treasure on own site: treasure not found
+Group 246 search treasure on own site: treasure not found
+Group 249 search treasure on own site: treasure not found
+Group 251 search treasure on own site: treasure found
+Group 253 search treasure on own site: treasure found
+Group 254 search treasure on own site: treasure not found
+Group 255 search treasure on own site: treasure not found
+Group 257 search treasure on own site: treasure not found
+Group 259 search treasure on own site: treasure found
+Group 261 search treasure on own site: treasure not found
+Group 263 search treasure on own site: treasure found
+Group 265 search treasure on own site: treasure not found
+Group 268 search treasure on own site: treasure found
+Group 270 search treasure on own site: treasure not found
+Group 273 search treasure on own site: treasure not found
+Group 274 search treasure on own site: treasure found
+Group 276 search treasure on own site: treasure not found
+Group 278 search treasure on own site: treasure found
+Group 280 search treasure on own site: treasure found
+Group 280 search treasure on own site: treasure found
+Group 282 search treasure on own site: treasure not found
+Group 282 search treasure on own site: treasure not found
+Group 284 search treasure on own site: treasure not found
+Group 285 search treasure on own site: treasure not found
+Group 287 search treasure on own site: treasure not found
+Group 289 search treasure on own site: treasure not found
+Group 289 search treasure on own site: treasure found
+Group 291 search treasure on own site: treasure not found
+Group 294 search treasure on own site: treasure not found
+Group 296 search treasure on own site: treasure not found
+Group 297 search treasure on own site: treasure not found
+Group 300 search treasure on own site: treasure found
+Group 303 search treasure on own site: treasure found
+Group 304 search treasure on own site: treasure not found
+Group 305 search treasure on own site: treasure not found
+Group 306 search treasure on own site: treasure found
+Group 60 search treasure on own site: treasure not found
+Group 308 search treasure on own site: treasure found
+Group 309 search treasure on own site: treasure found
+Group 310 search treasure on own site: treasure not found
+Group 310 search treasure on own site: treasure not found
+Group 312 search treasure on own site: treasure found
+Group 313 search treasure on own site: treasure not found
+Group 316 search treasure on own site: treasure found
+Group 317 search treasure on own site: treasure not found
+Group 319 search treasure on own site: treasure found
+Group 321 search treasure on own site: treasure not found
+Group 323 search treasure on own site: treasure found
+Group 323 search treasure on own site: treasure not found
+Group 324 search treasure on own site: treasure found
+Group 325 search treasure on own site: treasure not found
+Group 327 search treasure on own site: treasure not found
+Group 328 search treasure on own site: treasure found
+Group 329 search treasure on own site: treasure not found
+Group 332 search treasure on own site: treasure found
+Group 335 search treasure on own site: treasure found
+Group 338 search treasure on own site: treasure not found
+Group 341 search treasure on own site: treasure not found
+Group 343 search treasure on own site: treasure not found
+Group 345 search treasure on own site: treasure not found
+Group 347 search treasure on own site: treasure not found
+Group 350 search treasure on own site: treasure found
+Group 353 search treasure on own site: treasure not found
+Group 354 search treasure on own site: treasure found
+Group 355 search treasure on own site: treasure not found
+Group 357 search treasure on own site: treasure found
+Group 359 search treasure on own site: treasure not found
+Group 362 search treasure on own site: treasure not found
+Group 364 search treasure on own site: treasure found
+Group 366 search treasure on own site: treasure not found
+Group 368 search treasure on own site: treasure not found
+Group 370 search treasure on own site: treasure found
+Group 371 search treasure on own site: treasure found
+Group 373 search treasure on own site: treasure found
+Group 375 search treasure on own site: treasure not found
+Group 378 search treasure on own site: treasure found
+Group 380 search treasure on own site: treasure not found
+Group 381 search treasure on own site: treasure found
+Group 382 search treasure on own site: treasure found
+Group 383 search treasure on own site: treasure found
+Group 385 search treasure on own site: treasure not found
+Group 387 search treasure on own site: treasure found
+Group 390 search treasure on own site: treasure not found
+Group 392 search treasure on own site: treasure not found
+Group 394 search treasure on own site: treasure not found
+Group 395 search treasure on own site: treasure not found
+Group 397 search treasure on own site: treasure found
+Group 399 search treasure on own site: treasure found
+Group 402 search treasure on own site: treasure found
+Group 405 search treasure on own site: treasure found
+Group 406 search treasure on own site: treasure not found
+Group 406 search treasure on own site: treasure found
+Group 406 search treasure on own site: treasure found
+Group 408 search treasure on own site: treasure not found
+Group 68 search treasure on own site: treasure not found
+Group 411 search treasure on own site: treasure not found
+Group 413 search treasure on own site: treasure not found
+Group 415 search treasure on own site: treasure not found
+Group 418 search treasure on own site: treasure not found
+Group 419 search treasure on own site: treasure found
+Group 421 search treasure on own site: treasure not found
+Group 423 search treasure on own site: treasure found
+Group 425 search treasure on own site: treasure found
+Group 426 search treasure on own site: treasure not found
+Group 428 search treasure on own site: treasure not found
+Group 429 search treasure on own site: treasure found
+Group 431 search treasure on own site: treasure found
+Group 432 search treasure on own site: treasure not found
+Group 434 search treasure on own site: treasure not found
+Group 435 search treasure on own site: treasure not found
+Group 6 search treasure on own site: treasure found
+Group 436 search treasure on own site: treasure not found
+Group 437 search treasure on own site: treasure not found
+Group 438 search treasure on own site: treasure found
+Group 439 search treasure on own site: treasure found
+Group 441 search treasure on own site: treasure not found
+Group 442 search treasure on own site: treasure found
+Group 443 search treasure on own site: treasure not found
+Group 445 search treasure on own site: treasure not found
+Group 445 search treasure on own site: treasure not found
+Group 446 search treasure on own site: treasure not found
+Group 448 search treasure on own site: treasure found
+Group 449 search treasure on own site: treasure not found
+Group 451 search treasure on own site: treasure not found
+Group 452 search treasure on own site: treasure not found
+Group 453 search treasure on own site: treasure not found
+Group 455 search treasure on own site: treasure found
+Group 457 search treasure on own site: treasure not found
+Group 458 search treasure on own site: treasure not found
+Group 459 search treasure on own site: treasure found
+Group 460 search treasure on own site: treasure not found
+Group 460 search treasure on own site: treasure found
+Group 461 search treasure on own site: treasure found
+Group 462 search treasure on own site: treasure found
+Group 464 search treasure on own site: treasure not found
+Group 465 search treasure on own site: treasure found
+Group 466 search treasure on own site: treasure not found
+Group 467 search treasure on own site: treasure found
+Group 469 search treasure on own site: treasure found
+Group 471 search treasure on own site: treasure not found
+Group 472 search treasure on own site: treasure not found
+Group 474 search treasure on own site: treasure found
+Group 474 search treasure on own site: treasure not found
+Group 475 search treasure on own site: treasure not found
+Group 476 search treasure on own site: treasure not found
+Group 476 search treasure on own site: treasure not found
+Group 477 search treasure on own site: treasure found
+Group 479 search treasure on own site: treasure not found
+Group 482 search treasure on own site: treasure found
+Group 482 search treasure on own site: treasure not found
+Group 485 search treasure on own site: treasure found
+Group 487 search treasure on own site: treasure found
+Group 488 search treasure on own site: treasure found
+Group 490 search treasure on own site: treasure not found
+Group 492 search treasure on own site: treasure not found
+Group 495 search treasure on own site: treasure not found
+Group 496 search treasure on own site: treasure not found
+Group 498 search treasure on own site: treasure found
+Group 498 search treasure on own site: treasure not found
+Group 499 search treasure on own site: treasure found
+Group 500 search treasure on own site: treasure not found
+Group 501 search treasure on own site: treasure not found
+Group 505 search treasure on own site: treasure found
+Group 506 search treasure on own site: treasure not found
+Group 509 search treasure on own site: treasure not found
+Group 511 search treasure on own site: treasure found
+Group 513 search treasure on own site: treasure found
+Group 515 search treasure on own site: treasure found
+Group 517 search treasure on own site: treasure not found
+Group 519 search treasure on own site: treasure not found
+Group 521 search treasure on own site: treasure found
+Group 522 search treasure on own site: treasure found
+Group 524 search treasure on own site: treasure not found
+Group 525 search treasure on own site: treasure found
+Group 526 search treasure on own site: treasure not found
+Group 528 search treasure on own site: treasure found
+Group 531 search treasure on own site: treasure found
+Group 532 search treasure on own site: treasure found
+Group 534 search treasure on own site: treasure not found
+Group 537 search treasure on own site: treasure found
+Group 538 search treasure on own site: treasure found
+Group 540 search treasure on own site: treasure found
+Group 542 search treasure on own site: treasure not found
+Group 547 search treasure on own site: treasure not found
+Group 547 search treasure on own site: treasure found
+Group 548 search treasure on own site: treasure not found
+Group 550 search treasure on own site: treasure not found
+Group 552 search treasure on own site: treasure found
+Group 554 search treasure on own site: treasure found
+Group 556 search treasure on own site: treasure found
+Group 558 search treasure on own site: treasure found
+Group 561 search treasure on own site: treasure found
+Group 563 search treasure on own site: treasure found
+Group 565 search treasure on own site: treasure found
+Group 568 search treasure on own site: treasure found
+Group 571 search treasure on own site: treasure found
+Group 571 search treasure on own site: treasure not found
+Group 572 search treasure on own site: treasure not found
+Group 573 search treasure on own site: treasure not found
+Group 574 search treasure on own site: treasure not found
+Group 575 search treasure on own site: treasure found
+Group 578 search treasure on own site: treasure not found
+Group 581 search treasure on own site: treasure not found
+Group 584 search treasure on own site: treasure not found
+Group 586 search treasure on own site: treasure not found
+Group 588 search treasure on own site: treasure not found
+Group 590 search treasure on own site: treasure found
+Group 593 search treasure on own site: treasure not found
+Group 596 search treasure on own site: treasure found
+Group 598 search treasure on own site: treasure not found
+Group 599 search treasure on own site: treasure found
+Group 599 search treasure on own site: treasure not found
+Group 601 search treasure on own site: treasure found
+Group 601 search treasure on own site: treasure found
+Group 604 search treasure on own site: treasure not found
+Group 606 search treasure on own site: treasure not found
+Group 608 search treasure on own site: treasure not found
+Group 611 search treasure on own site: treasure not found
+Group 614 search treasure on own site: treasure not found
+Group 617 search treasure on own site: treasure not found
+Group 619 search treasure on own site: treasure not found
+Group 622 search treasure on own site: treasure not found
+Group 624 search treasure on own site: treasure not found
+Group 627 search treasure on own site: treasure found
+Group 628 search treasure on own site: treasure found
+Group 630 search treasure on own site: treasure found
+Group 631 search treasure on own site: treasure found
+Group 631 search treasure on own site: treasure found
+Group 632 search treasure on own site: treasure found
+Group 635 search treasure on own site: treasure not found
+Group 637 search treasure on own site: treasure found
+Group 638 search treasure on own site: treasure found
+Group 641 search treasure on own site: treasure found
+Group 643 search treasure on own site: treasure not found
+Group 647 search treasure on own site: treasure not found
+Group 650 search treasure on own site: treasure not found
+Group 653 search treasure on own site: treasure not found
+Group 657 search treasure on own site: treasure found
+Group 659 search treasure on own site: treasure found
+Group 661 search treasure on own site: treasure not found
+Group 663 search treasure on own site: treasure not found
+Group 665 search treasure on own site: treasure found
+Group 669 search treasure on own site: treasure not found
+Group 671 search treasure on own site: treasure not found
+Group 674 search treasure on own site: treasure found
+Group 676 search treasure on own site: treasure found
+Group 678 search treasure on own site: treasure found
+Group 682 search treasure on own site: treasure found
+Group 684 search treasure on own site: treasure not found
+Group 686 search treasure on own site: treasure found
+Group 686 search treasure on own site: treasure found
+Group 689 search treasure on own site: treasure found
+Group 690 search treasure on own site: treasure not found
+Group 692 search treasure on own site: treasure found
+Group 693 search treasure on own site: treasure not found
+Group 695 search treasure on own site: treasure not found
+Group 696 search treasure on own site: treasure found
+Group 697 search treasure on own site: treasure not found
+Group 700 search treasure on own site: treasure not found
+Group 702 search treasure on own site: treasure found
+Group 703 search treasure on own site: treasure not found
+Group 706 search treasure on own site: treasure not found
+Group 708 search treasure on own site: treasure found
+Group 711 search treasure on own site: treasure not found
+Group 713 search treasure on own site: treasure not found
+Group 716 search treasure on own site: treasure found
+Group 720 search treasure on own site: treasure found
+Group 721 search treasure on own site: treasure found
+Group 723 search treasure on own site: treasure not found
+Group 725 search treasure on own site: treasure not found
+Group 727 search treasure on own site: treasure not found
+Group 729 search treasure on own site: treasure not found
+Group 731 search treasure on own site: treasure found
+Group 734 search treasure on own site: treasure not found
+Group 735 search treasure on own site: treasure found
+Group 737 search treasure on own site: treasure not found
+Group 740 search treasure on own site: treasure not found
+Group 742 search treasure on own site: treasure not found
+Group 743 search treasure on own site: treasure not found
+Group 745 search treasure on own site: treasure found
+Group 746 search treasure on own site: treasure not found
+Group 747 search treasure on own site: treasure not found
+Group 748 search treasure on own site: treasure found
+Group 749 search treasure on own site: treasure not found
+Group 752 search treasure on own site: treasure found
+Group 754 search treasure on own site: treasure not found
+Group 757 search treasure on own site: treasure found
+Group 759 search treasure on own site: treasure not found
+Group 762 search treasure on own site: treasure found
+Group 765 search treasure on own site: treasure not found
+Group 768 search treasure on own site: treasure found
+Group 771 search treasure on own site: treasure found
+Group 775 search treasure on own site: treasure found
+Group 776 search treasure on own site: treasure not found
+Group 779 search treasure on own site: treasure found
+Group 780 search treasure on own site: treasure not found
+Group 781 search treasure on own site: treasure not found
+Group 783 search treasure on own site: treasure not found
+Group 785 search treasure on own site: treasure not found
+Group 789 search treasure on own site: treasure not found
+Group 792 search treasure on own site: treasure not found
+Group 795 search treasure on own site: treasure found
+Group 798 search treasure on own site: treasure found
+Group 800 search treasure on own site: treasure found
+Group 803 search treasure on own site: treasure found
+Group 805 search treasure on own site: treasure found
+Group 808 search treasure on own site: treasure found
+Group 811 search treasure on own site: treasure found
+Group 813 search treasure on own site: treasure found
+Group 814 search treasure on own site: treasure not found
+Group 86 search treasure on own site: treasure not found
+Group 818 search treasure on own site: treasure found
+Group 820 search treasure on own site: treasure not found
+Group 821 search treasure on own site: treasure found
+Group 824 search treasure on own site: treasure not found
+Group 826 search treasure on own site: treasure found
+Group 829 search treasure on own site: treasure found
+Group 831 search treasure on own site: treasure not found
+Group 834 search treasure on own site: treasure not found
+Group 836 search treasure on own site: treasure not found
+Group 839 search treasure on own site: treasure not found
+Group 840 search treasure on own site: treasure not found
+Group 841 search treasure on own site: treasure not found
+Group 843 search treasure on own site: treasure not found
+Group 844 search treasure on own site: treasure found
+Group 845 search treasure on own site: treasure found
+Group 847 search treasure on own site: treasure found
+Group 850 search treasure on own site: treasure not found
+Group 851 search treasure on own site: treasure not found
+Group 854 search treasure on own site: treasure not found
+Group 856 search treasure on own site: treasure not found
+Group 858 search treasure on own site: treasure not found
+Group 860 search treasure on own site: treasure found
+Group 862 search treasure on own site: treasure found
+Group 865 search treasure on own site: treasure found
+Group 866 search treasure on own site: treasure found
+Group 866 search treasure on own site: treasure found
+Group 867 search treasure on own site: treasure not found
+Group 868 search treasure on own site: treasure found
+Group 869 search treasure on own site: treasure found
+Group 870 search treasure on own site: treasure found
+Group 872 search treasure on own site: treasure not found
+Group 874 search treasure on own site: treasure not found
+Group 875 search treasure on own site: treasure not found
+Group 877 search treasure on own site: treasure not found
+Group 878 search treasure on own site: treasure found
+Group 880 search treasure on own site: treasure found
+Group 881 search treasure on own site: treasure not found
+Group 883 search treasure on own site: treasure not found
+Group 884 search treasure on own site: treasure found
+Group 885 search treasure on own site: treasure found
+Group 886 search treasure on own site: treasure found
+Group 887 search treasure on own site: treasure not found
+Group 889 search treasure on own site: treasure not found
+Group 891 search treasure on own site: treasure not found
+Group 892 search treasure on own site: treasure found
+Group 894 search treasure on own site: treasure found
+Group 896 search treasure on own site: treasure not found
+Group 898 search treasure on own site: treasure found
+Group 900 search treasure on own site: treasure found
+Group 902 search treasure on own site: treasure not found
+Group 906 search treasure on own site: treasure not found
+Group 907 search treasure on own site: treasure not found
+Group 909 search treasure on own site: treasure found
+Group 911 search treasure on own site: treasure not found
+Group 911 search treasure on own site: treasure not found
+Group 913 search treasure on own site: treasure not found
+Group 914 search treasure on own site: treasure found
+Group 917 search treasure on own site: treasure found
+Group 920 search treasure on own site: treasure not found
+Group 922 search treasure on own site: treasure found
+Group 925 search treasure on own site: treasure not found
+Group 927 search treasure on own site: treasure not found
+Group 930 search treasure on own site: treasure not found
+Group 932 search treasure on own site: treasure found
+Group 935 search treasure on own site: treasure found
+Group 937 search treasure on own site: treasure found
+Group 938 search treasure on own site: treasure not found
+Group 939 search treasure on own site: treasure found
+Group 941 search treasure on own site: treasure found
+Group 942 search treasure on own site: treasure not found
+Group 942 search treasure on own site: treasure not found
+Group 944 search treasure on own site: treasure not found
+Group 946 search treasure on own site: treasure found
+Group 948 search treasure on own site: treasure not found
+Group 949 search treasure on own site: treasure found
+Group 952 search treasure on own site: treasure found
+Group 954 search treasure on own site: treasure not found
+Group 956 search treasure on own site: treasure not found
+Group 958 search treasure on own site: treasure found
+Group 960 search treasure on own site: treasure not found
+Group 962 search treasure on own site: treasure not found
+Group 963 search treasure on own site: treasure found
+Group 99 search treasure on own site: treasure found
+Group 966 search treasure on own site: treasure not found
+Group 968 search treasure on own site: treasure not found
+Group 971 search treasure on own site: treasure not found
+Group 972 search treasure on own site: treasure not found
+Group 974 search treasure on own site: treasure not found
+Group 976 search treasure on own site: treasure found
+Group 978 search treasure on own site: treasure found
+Group 981 search treasure on own site: treasure found
+Group 984 search treasure on own site: treasure not found
+Group 988 search treasure on own site: treasure found
+Group 989 search treasure on own site: treasure found
+Group 990 search treasure on own site: treasure not found
+Group 101 search treasure on own site: treasure not found
